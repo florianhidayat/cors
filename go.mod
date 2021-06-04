@@ -1,8 +1,9 @@
-module github.com/gin-contrib/cors
+module github.com/florianhidayat/cors
 
 go 1.13
 
 require (
+	github.com/florianhidayat/gin v1.1.5-0.20200507121525-421679766ae5
 	github.com/gin-gonic/gin v1.6.2
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/stretchr/testify v1.4.0
